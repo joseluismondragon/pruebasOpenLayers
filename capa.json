@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "BURGUERS!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-102.285277, 21.884008]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "INEGI!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-102.284316, 21.857241]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "SAN MARCOS!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-102.304231, 21.879318]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "GUADALUPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-102.301938, 21.884919]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "EL ENCINO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-102.292879, 21.874976]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "LA ESTACIÓN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-102.281314, 21.883090]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "text": "AHAAAA"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [[-103, 23.9], [-101, 21.9]]
+            }
+        }
+    ]
+}
